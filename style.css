@@ -28,6 +28,7 @@ display: inline;
 .fa-trash-alt {
     color: red;
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 25px;
     cursor: pointer;
 }
+
