@@ -1,6 +1,6 @@
 //Shopping lists
 const inputTag = document.getElementsByClassName("form-control")[0]; //HTML Collection
-const shoppingListTag = document.getElementsByClassName("shoppingListConatiner")[0];
+const shoppingListTag = document.getElementsByClassName("todoContainer")[0];
 
 let productID = 1;
 const handleChange = (event) => {
